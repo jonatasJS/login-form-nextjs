@@ -1,0 +1,9 @@
+.login_box {
+  width: 340px;
+
+  background-color: #212324;
+}
+
+.login_box h1 {
+  color: rgb(235, 230, 224) !important;
+}

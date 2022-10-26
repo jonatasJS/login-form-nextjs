@@ -1,0 +1,30 @@
+html,
+body,
+#_next,
+main {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  color: white !important;
+  background-color: #212324 !important;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input::placeholder,
+input {
+  color: rgb(235, 230, 224) !important;
+  background-color: rgb(33, 35, 36) !important;
+  border-color: rgb(72, 77, 81) !important;
+}
